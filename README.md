@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the Google Cloud [challenge lab](https://google.qwiklabs.com/focuses/14294?parent=catalog) for the **[Create ML Models with BigQuery ML](https://google.qwiklabs.com/quests/146)** quest. This challenge lab tests skills in developing and using machine learning models using BigQuery.
 
-[Click here to view the details.](Create-ML-Models-with-BigQuery-ML.ipynb)
+[Click here to view the details.]([Create-ML-Models-with-BigQuery-ML.ipynb](https://github.com/GokuHacker/Create-ML-Models-with-BigQuery-ML/blob/main/Create%20ML%20Models%20with%20BigQuery%20ML.ipynb))
 
 You can earn a skill badge after completing the quest and the challenge lab.
 
